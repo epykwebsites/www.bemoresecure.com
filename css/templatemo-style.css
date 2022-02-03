@@ -763,7 +763,9 @@ http://www.templatemo.com/tm-515-eatery
     font-size: 20px;
   }
 
-  footer a,
+  footer a {
+    color:#42c5e3;
+  }
   footer p {
     color: #909090;
   }
@@ -1007,3 +1009,6 @@ http://www.templatemo.com/tm-515-eatery
     }
   }
 
+  
+  
+ 
